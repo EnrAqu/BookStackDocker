@@ -55,7 +55,7 @@ MYSQL_PASSWORD=your_secure_password
 
 # BookStack Configuration
 APP_URL=http://localhost:6875
-APP_KEY=base64:mgeRV0KIdEajBJY2d8urgyyrwRMN9h53xZOozYHw+dM=
+APP_KEY=base64:app-keys
 ```
 
 > ⚠️ **Important**: Don't commit the `.env` file to Git! It's already included in `.gitignore`.
