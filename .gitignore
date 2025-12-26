@@ -1,0 +1,21 @@
+# File con credenziali sensibili
+.env
+
+# Backup files
+*.sql
+*.tar.gz
+backup/
+
+# Docker volumes (se esportati localmente)
+volumes/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
