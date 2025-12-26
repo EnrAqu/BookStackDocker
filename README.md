@@ -32,7 +32,7 @@ BookStack is an open-source platform for creating documentation and wikis. This 
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/EnrAqu/BookStackDocker.git
 cd BookStack
 ```
 
